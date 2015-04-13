@@ -268,7 +268,7 @@ int main() {
 
     cout << "HAPPY END!)" << endl;
 
-    return 1;
+    return 0;
 }
 
 /*
