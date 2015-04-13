@@ -265,7 +265,7 @@ int main() {
 
     cout << search_time/1000 << endl;
 
-    cout << "HAPPY END!)" << endl;
+    cout << "HAPPY ENDD!)" << endl;
 
     return 0;
 }
