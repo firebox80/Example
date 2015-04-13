@@ -147,8 +147,7 @@ int main() {
     cin >> option;
 
     while( option == 'Y' || option == 'y') {
-        //triger = rand() % 2 + 1;
-        triger = 1;
+        triger = rand() % 2 + 1;
         switch(triger){
             case 1:
                 cout << "Enter FirstName: ";
