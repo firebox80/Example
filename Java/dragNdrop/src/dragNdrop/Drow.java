@@ -10,7 +10,7 @@ public class Drow {
 	DrowP myJpnl;
 	
 	public Drow() {
-		JFrame jfrm = new JFrame("Drag-n-Drop1");
+		JFrame jfrm = new JFrame("Drag-n-Drop");
 		jfrm.getContentPane().setLayout(new FlowLayout());
 		jfrm.setSize(400, 400);
 		jfrm.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
