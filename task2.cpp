@@ -15,7 +15,7 @@ class Employee{
 
     public:
 
-    string firstName1;
+    string firstName;
     string secondName;
     static int count;
     int serialNumber;
